@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Matthias,
-#### and I'm a self-taught software engineer.
+### Hi there 👋
 
 I'm Matthias and I'm a self-taught software engineer from the Netherlands, I started coding at the age of 16 and it has become my main hobby. I love learning new things and working with computers.
 
