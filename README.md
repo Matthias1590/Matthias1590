@@ -5,9 +5,9 @@ I'm Matthias and I'm a self-taught software engineer from the Netherlands, I sta
 - 🔭 I’m currently working on [CodeGenX](https://github.com/DeepGenX/CodeGenX).
 - 🌱 I’m currently learning Java.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthias1590&theme=github_dark&theme=github_dark&title_color=539BF5&text_color=ADBAC7&border_color=444C56&bg_color=22272E&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthias1590&theme=github_dark&theme=github_dark&title_color=539BF5&text_color=ADBAC7&border_color=444C56&bg_color=22272E&cache_seconds=1800&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias1590&theme=github_dark&theme=github_dark&title_color=539BF5&text_color=ADBAC7&border_color=444C56&bg_color=22272E&cache_seconds=1800&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias1590&theme=github_dark&theme=github_dark&title_color=539BF5&text_color=ADBAC7&border_color=444C56&bg_color=22272E&cache_seconds=1800&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
