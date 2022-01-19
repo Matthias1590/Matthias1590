@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matthias and I'm a self-taught software engineer from the Netherlands, I love learning new things and working with computers.
+I'm Matthias and I'm a self-taught software engineer from the Netherlands, I love learning new things and working with computers :)
 
 - 🔭 I’m currently working on [NumLang](https://github.com/Matthias1590/NumLang).
 - 🌱 I’m currently learning Java.
